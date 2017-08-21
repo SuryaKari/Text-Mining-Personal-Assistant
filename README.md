@@ -2,7 +2,7 @@
 This is a experimental Personal Assistant
 
 #### What can this do this so far? (Examples)
-* <b>The chatbot is always on. So it is always listening</b>
+* <b>The chatbot is always on. So it is always waiting for input</b>
     * what time is it?
     * what time is it now?
     * what time is it in Sydney?
