@@ -19,8 +19,8 @@
 
 <b>Questions about You</b>
 * I have moved or any variation there of
-* Cool, A New Place ....
-* Allright Ill remember
+  * Cool, A New Place ....
+  * Allright I'll remember
 
 <b>Time based Questions</b>
 * what time is it?
