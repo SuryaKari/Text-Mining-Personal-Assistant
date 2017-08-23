@@ -17,8 +17,10 @@
 
 ### What can this do this so far? (Examples)
 
-<b>Questions about You</b>
-* I have moved or any variation there of
+<b>Set home by telling Trika that you have moved</b>
+* "I have moved" or any variation there of 
+  * Example:
+    * You can use this to say "What are the directions from home to Rogers Center?"
   * Cool, A New Place ....
   * Allright I'll remember
 
