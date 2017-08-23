@@ -2,11 +2,11 @@
 ### <b>[Always On Feature] The chatbot is always on. So it is always waiting for input.</b>
    * The emphasis of this chatbot is on natural language input and relevant output. It is still a work in progress and I am implementing      new features all the time. 
 
-## FORK AND CUSTOMIZE
+### FORK AND CUSTOMIZE
 * Please feel free to fork and customize this to your needs. 
 * There are tons of cool API's on the internet that can make this a lot of fun
 
-## IMPLEMENTATION
+### IMPLEMENTATION
 
 * Download this python notebook and run it using the following options:
    * if you want always on feature, run the asktrika() function and it should always keep a text box waiting for input
@@ -15,7 +15,7 @@
 
 <b>=============================================================</b>
 
-## What can this do this so far? (Examples)
+### What can this do this so far? (Examples)
 
 <b>Questions about You</b>
 * I have moved or any variation there of
@@ -74,7 +74,7 @@
 * What is happening?
 
 <b>=============================================================</b>
-## Work in Progress
+### Work in Progress
 
 <b>Directions based Questions</b>
 * What is the phone number of the nearest mcdonalds?
